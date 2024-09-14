@@ -1,19 +1,45 @@
-# Pantech Solution Machine learning Internship
+# Abhishek Machine learning
 #### Day1 
 #### Day2
+ - []()
+- [Training & Testing ML Algorithm For Energy Meter](https://colab.research.google.com/drive/1G0MGEHi_il5bttigh4d9cIwmvBKYRjLx?authuser=2)
 ## Supervised Learning - Classification & Regression 
 ### Day3 
--  [Advertisement Sale Prediction from The an existing Customer]() - Logistic Regression'
+-  [Advertisement Sale Prediction from The an existing Customer](https://colab.research.google.com/drive/1NLyDuVeMcYswk8KDuyiq_benUxGmLV9c?usp=sharing) - Logistic Regression
+- [MindMap]()
+- [Dataset]()
+- [Python Code]()
+- [Notebook]()
 ### Day4 
 - [Salary estimation]() - K-Nearest Nieghbor
+- [MindMap]()
+- [Dataset]()
+- [Python Code]()
+- [Notebook]()
 ### Day5 
 - [Character Reconization]() - Support vector Machine
+- [MindMap]()
+- [Dataset]()
+- [Python Code]()
+- [Notebook]()
 ### Day 6 
 - [Titanic survival pridiction]()- Nave Bayes
+- [MindMap]()
+- [Dataset]()
+- [Python Code]()
+- [Notebook]()
 ### Day 7
 - [leaf detection]() - Decision tree
+- [MindMap]()
+- [Dataset]()
+- [Python Code]()
+- [Notebook]()
 ### Day 8 
 - [Handwriten digit Reconization]() - Random Forest
+- [MindMap]()
+- [Dataset]()
+- [Python Code]()
+- [Notebook]()
 ### Day9
 - [Evaluating Classification model]() 
      * Confusion Matrix
