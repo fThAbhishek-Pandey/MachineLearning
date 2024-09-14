@@ -1,15 +1,15 @@
 # Abhishek Machine learning
 #### Day1 
 #### Day2
- - []()
+- [Evaluating Various MLModel for Energy Meter](https://colab.research.google.com/drive/1qtC5gPai41sLgJ7gi89NGEHEHNI-4d5f?usp=sharing)
 - [Training & Testing ML Algorithm For Energy Meter](https://colab.research.google.com/drive/1G0MGEHi_il5bttigh4d9cIwmvBKYRjLx?authuser=2)
 ## Supervised Learning - Classification & Regression 
 ### Day3 
 -  [Advertisement Sale Prediction from The an existing Customer](https://colab.research.google.com/drive/1NLyDuVeMcYswk8KDuyiq_benUxGmLV9c?usp=sharing) - Logistic Regression
-- [MindMap]()
-- [Dataset]()
-- [Python Code]()
-- [Notebook]()
+- [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/Advertisement%20Sale%20prediction%20from%20an%20existing%20customer.pdf)
+- [Dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/DigitalAd_dataset.csv)
+- [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/Ad_Sale_Prediction.py)
+- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/Ad_Sale_Prediction.ipynb)
 ### Day4 
 - [Salary estimation]() - K-Nearest Nieghbor
 - [MindMap]()
