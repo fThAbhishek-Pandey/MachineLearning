@@ -11,7 +11,7 @@
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/Ad_Sale_Prediction.py)
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/Ad_Sale_Prediction.ipynb)
 ### Day4 
-- [Salary estimation]() - K-Nearest Nieghbor
+- [Salary estimation](https://colab.research.google.com/drive/1NmC--osQhIJcOYKj_BNHmvWj6yomDHpk?usp=sharing) - K-Nearest Nieghbor
 - [MindMap]()
 - [Dataset]()
 - [Python Code]()
