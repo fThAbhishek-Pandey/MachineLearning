@@ -12,10 +12,10 @@
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/Ad_Sale_Prediction.ipynb)
 ### Day4 
 - [Salary estimation](https://colab.research.google.com/drive/1NmC--osQhIJcOYKj_BNHmvWj6yomDHpk?usp=sharing) - K-Nearest Nieghbor
-- [MindMap]()
-- [Dataset]()
-- [Python Code]()
-- [Notebook]()
+- [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/Salary%20Estimation%20using%20K-Nearest%20Neighbour.pdf)
+- [Dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/4_SalaryEstimator_K-NearestNeighbour/salary.csv)
+- [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/4_SalaryEstimator_K-NearestNeighbour/day4_salaryestimation_k_nn.py)
+- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/4_SalaryEstimator_K-NearestNeighbour/Day4_SalaryEstimation_K_NN.ipynb)
 ### Day5 
 - [Character Reconization]() - Support vector Machine
 - [MindMap]()
