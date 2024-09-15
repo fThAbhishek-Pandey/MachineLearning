@@ -15,48 +15,48 @@
  - [intermediate](https://colab.research.google.com/drive/1VOGIHwjV0kYfnho4g705rdgXHg0XgkDr?usp=sharing)
  - [Advance](https://colab.research.google.com/drive/1VOGIHwjV0kYfnho4g705rdgXHg0XgkDr?usp=sharing)
 ## Supervised Learning - Classification & Regression 
-### Day3 
+### Day 03 
 -  [Advertisement Sale Prediction from The an existing Customer](https://colab.research.google.com/drive/1NLyDuVeMcYswk8KDuyiq_benUxGmLV9c?usp=sharing) - Logistic Regression
 - [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/Advertisement%20Sale%20prediction%20from%20an%20existing%20customer.pdf)
 - [Dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/DigitalAd_dataset.csv)
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/Ad_Sale_Prediction.py)
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day3/3_AdSalePrediction_LR_Classifier/Ad_Sale_Prediction.ipynb)
-### Day4 
+### Day 04 
 - [Salary estimation](https://colab.research.google.com/drive/1NmC--osQhIJcOYKj_BNHmvWj6yomDHpk?usp=sharing) - K-Nearest Nieghbor
 - [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/Salary%20Estimation%20using%20K-Nearest%20Neighbour.pdf)
 - [Dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/4_SalaryEstimator_K-NearestNeighbour/salary.csv)
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/4_SalaryEstimator_K-NearestNeighbour/day4_salaryestimation_k_nn.py)
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/4_SalaryEstimator_K-NearestNeighbour/Day4_SalaryEstimation_K_NN.ipynb)
-### Day5 
+### Day 05 
 - [Character Reconization](https://colab.research.google.com/drive/1C9iN6QkWTLTseaCwuQWzpGsYJ_Nabn8f?usp=sharing) - Support vector Machine
 - [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/Handwritten%20Digit%20Recognition%20using%20SVM%20Classifier.pdf)
 - [Dataset](https://github.com/scikit-learn/scikit-learn/blob/f5aac2173/sklearn/datasets/_base.py#L899)
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/day5_handwrittendigitrecognition_svm.py)
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/Day5_HandwrittenDigitRecognition_SVM.ipynb)
-### Day 6 
+### Day 06 
 - [Titanic survival pridiction](https://colab.research.google.com/drive/1EHiXM0uqv6wwFGLD0TP3kQAh60yq7hOz?usp=sharing)- Naive Bayes
 - [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/Titanic%20Survival%20Prediction%20using%20NAIVE%20BAYES.pdf)
 - [Dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/titanicsurvival.csv)
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/day6_titanicsurvivalprediction_naivebayes.py)
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/Day6_TitanicSurvivalPrediction_NAIVEBAYES.ipynb)
-### Day 7
-- [leaf detection]() - Decision tree
+### Day 07
+- [leaf detection](https://colab.research.google.com/drive/15Zlz4Sl4c1Nkkl4juj7GQttKIdTMEQkV?usp=sharing) - Decision tree
 - [MindMap]()
 - [Dataset]()
 - [Python Code]()
 - [Notebook]()
-### Day 8 
+### Day 08 
 - [Handwriten digit Reconization]() - Random Forest
 - [MindMap]()
 - [Dataset]()
 - [Python Code]()
 - [Notebook]()
-### Day9
+### Day 09
 - [Evaluating Classification model]() 
      * Confusion Matrix
      * Cap Curve analysis
      * Accuracy Paradox 
-### Day10 
+### Day 10 
   - [classification Model selection for Brest Cancer Classification]()
 ### Day11
   - [House Price Prediction]() - Linear Regresstion single Variable
