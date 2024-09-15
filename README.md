@@ -1,8 +1,17 @@
 # Abhishek Machine learning
-#### Day1 
-#### Day2
+#### Day01
 - [Evaluating Various MLModel for Energy Meter](https://colab.research.google.com/drive/1qtC5gPai41sLgJ7gi89NGEHEHNI-4d5f?usp=sharing)
 - [Training & Testing ML Algorithm For Energy Meter](https://colab.research.google.com/drive/1G0MGEHi_il5bttigh4d9cIwmvBKYRjLx?authuser=2)
+#### Day02 Numpy and Pandas
+###### Numpy
+ - [Fundamental](https://colab.research.google.com/drive/18OJOBQwjbtFZEBe4SKtFAgw3SWKjHCga?usp=sharing)
+ - [intermediate](https://colab.research.google.com/drive/1rz4KGvapeIbHkbWSxojPcXuPIGeHFyVl?usp=sharing)
+ - [Tricks](https://colab.research.google.com/drive/19uuKMx89o53Tge5bIbwOztzOznUvv7Td?usp=sharing)
+ ###### Pandas
+ - [datasets]()
+ - [Fundamental](https://colab.research.google.com/drive/1ML-2c9dtd6k2QB1vfXuPcuSoPJ2ixy1A?usp=sharing)
+ - [intermediate](https://colab.research.google.com/drive/1VOGIHwjV0kYfnho4g705rdgXHg0XgkDr?usp=sharing)
+ - [Advance](https://colab.research.google.com/drive/1VOGIHwjV0kYfnho4g705rdgXHg0XgkDr?usp=sharing)
 ## Supervised Learning - Classification & Regression 
 ### Day3 
 -  [Advertisement Sale Prediction from The an existing Customer](https://colab.research.google.com/drive/1NLyDuVeMcYswk8KDuyiq_benUxGmLV9c?usp=sharing) - Logistic Regression
