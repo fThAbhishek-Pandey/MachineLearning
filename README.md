@@ -1,7 +1,9 @@
 # Abhishek Machine learning
 #### Day01
-- [Evaluating Various MLModel for Energy Meter](https://colab.research.google.com/drive/1qtC5gPai41sLgJ7gi89NGEHEHNI-4d5f?usp=sharing)
+- [ML intro Mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day01/Introduction_Machine%20Learning.pdf)
+
 - [Training & Testing ML Algorithm For Energy Meter](https://colab.research.google.com/drive/1G0MGEHi_il5bttigh4d9cIwmvBKYRjLx?authuser=2)
+- [Evaluating Various MLModel for Energy Meter](https://colab.research.google.com/drive/1qtC5gPai41sLgJ7gi89NGEHEHNI-4d5f?usp=sharing)
 #### Day02 Numpy and Pandas
 ###### Numpy
  - [Fundamental](https://colab.research.google.com/drive/18OJOBQwjbtFZEBe4SKtFAgw3SWKjHCga?usp=sharing)
@@ -32,7 +34,7 @@
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/day5_handwrittendigitrecognition_svm.py)
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/Day5_HandwrittenDigitRecognition_SVM.ipynb)
 ### Day 6 
-- [Titanic survival pridiction]()- Nave Bayes
+- [Titanic survival pridiction](https://colab.research.google.com/drive/1EHiXM0uqv6wwFGLD0TP3kQAh60yq7hOz?usp=sharing)- Naive Bayes
 - [MindMap]()
 - [Dataset]()
 - [Python Code]()
