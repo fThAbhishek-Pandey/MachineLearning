@@ -41,10 +41,10 @@
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/Day6_TitanicSurvivalPrediction_NAIVEBAYES.ipynb)
 ### Day 07
 - [leaf detection](https://colab.research.google.com/drive/15Zlz4Sl4c1Nkkl4juj7GQttKIdTMEQkV?usp=sharing) - Decision tree
-- [MindMap]()
+- [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day07_PlantFlowerIrisDetection_DECISIONTREE/Leaf%20Iris%20Species%20Detection%20using%20DECISION%20TREE.pdf)
 - [Dataset]()
-- [Python Code]()
-- [Notebook]()
+- [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day07_PlantFlowerIrisDetection_DECISIONTREE/7_leafspeciesdetection_decisiontree.py)
+- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day07_PlantFlowerIrisDetection_DECISIONTREE/7_LeafSpeciesDetection_DECISIONTREE.ipynb)
 ### Day 08 
 - [Handwriten digit Reconization]() - Random Forest
 - [MindMap]()
