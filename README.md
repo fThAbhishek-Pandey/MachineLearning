@@ -47,10 +47,10 @@
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day07_PlantFlowerIrisDetection_DECISIONTREE/7_LeafSpeciesDetection_DECISIONTREE.ipynb)
 ### Day 08 
 - [Handwriten digit Reconization](https://colab.research.google.com/drive/16eupxxZZWxnEZ8FVoAyu37EYfJadF2Di?usp=sharing) - Random Forest
-- [MindMap]()
-- [Dataset]()
-- [Python Code]()
-- [Notebook]()
+- [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/Digit%20Recognition%20using%20RANDOM%20FOREST%20Classifier.pdf)
+- [Dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/digit.csv)
+- [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/8_digitrecognition_randomforest.py)
+- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/8_DigitRecognition_RANDOMFOREST.ipynb)
 ### Day 09
 - [Evaluating Classification model]() 
      * Confusion Matrix
