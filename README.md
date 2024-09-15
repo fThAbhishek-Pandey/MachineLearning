@@ -46,7 +46,7 @@
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day07_PlantFlowerIrisDetection_DECISIONTREE/7_leafspeciesdetection_decisiontree.py)
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day07_PlantFlowerIrisDetection_DECISIONTREE/7_LeafSpeciesDetection_DECISIONTREE.ipynb)
 ### Day 08 
-- [Handwriten digit Reconization]() - Random Forest
+- [Handwriten digit Reconization](https://colab.research.google.com/drive/16eupxxZZWxnEZ8FVoAyu37EYfJadF2Di?usp=sharing) - Random Forest
 - [MindMap]()
 - [Dataset]()
 - [Python Code]()
