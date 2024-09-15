@@ -35,10 +35,10 @@
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/Day5_HandwrittenDigitRecognition_SVM.ipynb)
 ### Day 6 
 - [Titanic survival pridiction](https://colab.research.google.com/drive/1EHiXM0uqv6wwFGLD0TP3kQAh60yq7hOz?usp=sharing)- Naive Bayes
-- [MindMap]()
-- [Dataset]()
-- [Python Code]()
-- [Notebook]()
+- [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/Titanic%20Survival%20Prediction%20using%20NAIVE%20BAYES.pdf)
+- [Dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/titanicsurvival.csv)
+- [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/day6_titanicsurvivalprediction_naivebayes.py)
+- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/Day6_TitanicSurvivalPrediction_NAIVEBAYES.ipynb)
 ### Day 7
 - [leaf detection]() - Decision tree
 - [MindMap]()
