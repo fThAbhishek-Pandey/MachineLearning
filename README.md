@@ -18,10 +18,10 @@
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/4_SalaryEstimator_K-NearestNeighbour/Day4_SalaryEstimation_K_NN.ipynb)
 ### Day5 
 - [Character Reconization](https://colab.research.google.com/drive/1C9iN6QkWTLTseaCwuQWzpGsYJ_Nabn8f?usp=sharing) - Support vector Machine
-- [MindMap]()
-- [Dataset]()
-- [Python Code]()
-- [Notebook]()
+- [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/Handwritten%20Digit%20Recognition%20using%20SVM%20Classifier.pdf)
+- [Dataset](https://github.com/scikit-learn/scikit-learn/blob/f5aac2173/sklearn/datasets/_base.py#L899)
+- [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/day5_handwrittendigitrecognition_svm.py)
+- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/Day5_HandwrittenDigitRecognition_SVM.ipynb)
 ### Day 6 
 - [Titanic survival pridiction]()- Nave Bayes
 - [MindMap]()
