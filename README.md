@@ -17,7 +17,7 @@
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/4_SalaryEstimator_K-NearestNeighbour/day4_salaryestimation_k_nn.py)
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day04/4_SalaryEstimator_K-NearestNeighbour/Day4_SalaryEstimation_K_NN.ipynb)
 ### Day5 
-- [Character Reconization]() - Support vector Machine
+- [Character Reconization](https://colab.research.google.com/drive/1C9iN6QkWTLTseaCwuQWzpGsYJ_Nabn8f?usp=sharing) - Support vector Machine
 - [MindMap]()
 - [Dataset]()
 - [Python Code]()
