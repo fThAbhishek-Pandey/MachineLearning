@@ -55,25 +55,53 @@
 - [Evaluating Classification model](https://colab.research.google.com/drive/1a4BiTWmgYAd9nl-TzldGMugkyfAoQwMM?usp=sharing) 
    * Confusion Matrix
    * Cap Curve analysis
-   * Accuracy Paradox 
+   * Accuracy Paradox
 - [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/Evaluating%20Classification%20model%20Performance.pdf)
 - [dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/DigitalAd_dataset.csv)
 - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/day_9_validating_model_ad_sale_prediction_from_existing_customer_logistic_regression_validating_model.py)
 - [notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/Day_9_Validating_Model_Ad_Sale_Prediction_from_Existing_customer_Logistic_Regression_Validating_Model.ipynb)
 ### Day 10 
   - [classification Model selection for Brest Cancer Classification]()
+  - [mindmap]()
+  - [Datasets]()
+  - [Python code]()
+  - [Notebook]()
 ### Day11
   - [House Price Prediction]() - Linear Regresstion single Variable
+   - [mindmap]()
+  - [Datasets]()
+  - [Python code]()
+  - [Notebook]()
 ### Day12 
    - [Exam Marks Prediction]() - Linear Regresstion Multiple Variable
+   - [mindmap]()
+   - [Datasets]()
+   - [Python code]()
+   - [Notebook]()
 ### Day13 
    - [Predicting the Previous Salary of the new Employee]() -  polynomial Regresstion
+   - [mindmap]()
+   - [Datasets]()
+   - [Python code]()
+   - [Notebook]()
 ### Day14
-   - [Stock Price Prediction]() - Suport vector 
+   - [Stock Price Prediction]() - Suport vector
+   - [mindmap]()
+   - [Datasets]()
+   - [Python code]()
+   - [Notebook]()    
 ### Day15
-   - [Height Prediction from the age]() -Decision tree 
+   - [Height Prediction from the age]() -Decision tree
+   - [mindmap]()
+   - [Datasets]()
+   - [Python code]()
+   - [Notebook]() 
 ### Day16
    - [Car Price Prediction]() - Random forest
+   - [mindmap]()
+   - [Datasets]()
+   - [Python code]()
+   - [Notebook]()
 ### Day17
    - [Evaluating Model performance using]()
       * R-squared initution
