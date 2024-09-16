@@ -52,10 +52,14 @@
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/8_digitrecognition_randomforest.py)
 - [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/8_DigitRecognition_RANDOMFOREST.ipynb)
 ### Day 09
-- [Evaluating Classification model]() 
-     * Confusion Matrix
-     * Cap Curve analysis
-     * Accuracy Paradox 
+- [Evaluating Classification model](https://colab.research.google.com/drive/1a4BiTWmgYAd9nl-TzldGMugkyfAoQwMM?usp=sharing) 
+   * Confusion Matrix
+   * Cap Curve analysis
+   * Accuracy Paradox 
+- [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/Evaluating%20Classification%20model%20Performance.pdf)
+- [dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/DigitalAd_dataset.csv)
+- [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/day_9_validating_model_ad_sale_prediction_from_existing_customer_logistic_regression_validating_model.py)
+- [notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/Day_9_Validating_Model_Ad_Sale_Prediction_from_Existing_customer_Logistic_Regression_Validating_Model.ipynb)
 ### Day 10 
   - [classification Model selection for Brest Cancer Classification]()
 ### Day11
