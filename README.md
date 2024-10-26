@@ -1,4 +1,4 @@
-# Abhishek Machine learning
+# Abhishek Machine learning Algorithm
 #### Day01
 - [ML intro Mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day01/Introduction_Machine%20Learning.pdf)
 
