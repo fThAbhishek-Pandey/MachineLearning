@@ -63,43 +63,36 @@
   - [mindmap]()
   - [Datasets]()
   - [Python code]()
-  - [Notebook]()
 ### Day11
   - [House Price Prediction]() - Linear Regresstion single Variable
    - [mindmap]()
   - [Datasets]()
   - [Python code]()
-  - [Notebook]()
 ### Day12 
    - [Exam Marks Prediction]() - Linear Regresstion Multiple Variable
    - [mindmap]()
    - [Datasets]()
    - [Python code]()
-   - [Notebook]()
 ### Day13 
    - [Predicting the Previous Salary of the new Employee]() -  polynomial Regresstion
    - [mindmap]()
    - [Datasets]()
    - [Python code]()
-   - [Notebook]()
 ### Day14
    - [Stock Price Prediction]() - Suport vector
    - [mindmap]()
    - [Datasets]()
-   - [Python code]()
-   - [Notebook]()    
+   - [Python code]() 
 ### Day15
    - [Height Prediction from the age]() -Decision tree
    - [mindmap]()
    - [Datasets]()
    - [Python code]()
-   - [Notebook]() 
 ### Day16
    - [Car Price Prediction]() - Random forest
    - [mindmap]()
    - [Datasets]()
    - [Python code]()
-   - [Notebook]()
 ### Day17
    - [Evaluating Model performance using]()
       * R-squared initution
