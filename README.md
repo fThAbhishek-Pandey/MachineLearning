@@ -32,25 +32,24 @@
 - [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/Handwritten%20Digit%20Recognition%20using%20SVM%20Classifier.pdf)
 - [Dataset](https://github.com/scikit-learn/scikit-learn/blob/f5aac2173/sklearn/datasets/_base.py#L899)
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/day5_handwrittendigitrecognition_svm.py)
-- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day05_HandwrittenDigitRecognition_SVMClassifier/Day5_HandwrittenDigitRecognition_SVM.ipynb)
+
 ### Day 06 
 - [Titanic survival pridiction](https://colab.research.google.com/drive/1EHiXM0uqv6wwFGLD0TP3kQAh60yq7hOz?usp=sharing)- Naive Bayes
 - [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/Titanic%20Survival%20Prediction%20using%20NAIVE%20BAYES.pdf)
 - [Dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/titanicsurvival.csv)
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/day6_titanicsurvivalprediction_naivebayes.py)
-- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day06_TitanicSurvivalPrediction_NAIVEBAYES/Day6_TitanicSurvivalPrediction_NAIVEBAYES.ipynb)
+
 ### Day 07
 - [leaf detection](https://colab.research.google.com/drive/15Zlz4Sl4c1Nkkl4juj7GQttKIdTMEQkV?usp=sharing) - Decision tree
 - [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day07_PlantFlowerIrisDetection_DECISIONTREE/Leaf%20Iris%20Species%20Detection%20using%20DECISION%20TREE.pdf)
 - [Dataset]()
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day07_PlantFlowerIrisDetection_DECISIONTREE/7_leafspeciesdetection_decisiontree.py)
-- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day07_PlantFlowerIrisDetection_DECISIONTREE/7_LeafSpeciesDetection_DECISIONTREE.ipynb)
+
 ### Day 08 
 - [Handwriten digit Reconization](https://colab.research.google.com/drive/16eupxxZZWxnEZ8FVoAyu37EYfJadF2Di?usp=sharing) - Random Forest
 - [MindMap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/Digit%20Recognition%20using%20RANDOM%20FOREST%20Classifier.pdf)
 - [Dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/digit.csv)
 - [Python Code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/8_digitrecognition_randomforest.py)
-- [Notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day08_DigitRecognitionusing_RANDOMFOREST/8_DigitRecognition_RANDOMFOREST.ipynb)
 ### Day 09
 - [Evaluating Classification model](https://colab.research.google.com/drive/1a4BiTWmgYAd9nl-TzldGMugkyfAoQwMM?usp=sharing) 
    * Confusion Matrix
@@ -59,7 +58,6 @@
 - [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/Evaluating%20Classification%20model%20Performance.pdf)
 - [dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/DigitalAd_dataset.csv)
 - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/day_9_validating_model_ad_sale_prediction_from_existing_customer_logistic_regression_validating_model.py)
-- [notebook](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/Day_9_Validating_Model_Ad_Sale_Prediction_from_Existing_customer_Logistic_Regression_Validating_Model.ipynb)
 ### Day 10 
   - [classification Model selection for Brest Cancer Classification]()
   - [mindmap]()
