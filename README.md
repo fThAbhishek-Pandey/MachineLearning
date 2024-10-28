@@ -129,21 +129,29 @@
 - [notebook](https://colab.research.google.com/drive/18jqFaMtcvVLwCFmCp4cS7orcSj6ontCC?usp=sharing) 
 ### Day21
 - [leaf types data visulization]() - Principle component Analysis
+- [notebook](https://colab.research.google.com/drive/14udJqQO-a3CKft2uFTKWzOEkl234H_8u?usp=sharing)
 ### Day22
 - [Finding Similer Movie Based on Ranking]() - Singular Value Decomposition
+- [notebook](https://colab.research.google.com/drive/14JdACidnaWgs80mdwovXu3VzWeoypSXw?usp=sharing)
 ## Unupervised Learning - Association
 ### Day23
 - [Market Based Analysis]() - APIRIORI
+- [notebook](https://colab.research.google.com/drive/1Hm5uBG81l7EqK0QM9xdlGe0en1ww28Vh?usp=sharing)
 ### Day24
  - [Market basket optimization/Analysis]() - ECLAT
+ - [notebook](https://colab.research.google.com/drive/1h_1G65wmib13SFEIdP9pbs4_F76ZRsDO?usp=sharing)
 ## Reinfourcement Learning
 ### Day25 
 - [web Ads Clink through Optimization]() - Upper Bound Confidence
+- [notebook]()
 ## Netural Language Processing
 ### Day26
 - [Sentiment Analysis]() - NLTK
+- [notebook](https://colab.research.google.com/drive/1BZH0uWEamb_hIIHV4EnJebgdW1CDSf8L?usp=sharing)
 ### Day27 
 - [Breast Cancer tumor prediction]() - XGBOOST
+- [notebook XGBOOST](https://colab.research.google.com/drive/1hnC9Eyhu6Bo1-pvv0aDjcYmn7gi8VI7_?usp=sharing)
+- [notebook ](https://colab.research.google.com/drive/15Fuk2NgRXYx2ujbW9lNLvcTEljKeVZCN?usp=sharing)
 ## Deep Learning 
 ### Day28
 - [Bank Customer Classification]()- ANN
