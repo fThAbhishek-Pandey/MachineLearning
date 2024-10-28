@@ -129,30 +129,52 @@
 - [notebook](https://colab.research.google.com/drive/18jqFaMtcvVLwCFmCp4cS7orcSj6ontCC?usp=sharing) 
 ### Day21
 - [leaf types data visulization]() - Principle component Analysis
+- [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day21_ClusteringPlantIrisUsingPrincipalComponentAnalysis/Plant%20Iris%20Clustering%20using%20Principal%20Component%20Analysis.pdf)
+- [datasets]()
+- [python](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day21_ClusteringPlantIrisUsingPrincipalComponentAnalysis/21_clusteringplantirisusingprincipalcomponentanalysis.py)
 - [notebook](https://colab.research.google.com/drive/14udJqQO-a3CKft2uFTKWzOEkl234H_8u?usp=sharing)
 ### Day22
-- [Finding Similer Movie Based on Ranking]() - Singular Value Decomposition
+- [Finding Similer Movie Based on Ranking](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day22_MovieRecommendationSystemUsingSVD) - Singular Value Decomposition
+- [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day22_MovieRecommendationSystemUsingSVD/Movie%20Recommendation%20System%20Using%20SVD.pdf)
+- [dataset01 -movie ](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day22_MovieRecommendationSystemUsingSVD/movies.dat)
+- [dataset02 - rating](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day22_MovieRecommendationSystemUsingSVD/ratings.dat)
+- [python](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day22_MovieRecommendationSystemUsingSVD/22_movierecommendationsystemusingsvd.py)
 - [notebook](https://colab.research.google.com/drive/14JdACidnaWgs80mdwovXu3VzWeoypSXw?usp=sharing)
 ## Unupervised Learning - Association
 ### Day23
-- [Market Based Analysis]() - APIRIORI
+- [Market Based Analysis](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day23_MarketBasketAnalysisusingAPIRIORI) - APIRIORI
+- [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day23_MarketBasketAnalysisusingAPIRIORI/Market%20Basket%20Analysis%20using%20APIRIORI.pdf)
+- [dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day23_MarketBasketAnalysisusingAPIRIORI/dataset.csv)
+- [python](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day23_MarketBasketAnalysisusingAPIRIORI/23_marketbasketanalysisusingapiriori.py)
 - [notebook](https://colab.research.google.com/drive/1Hm5uBG81l7EqK0QM9xdlGe0en1ww28Vh?usp=sharing)
 ### Day24
- - [Market basket optimization/Analysis]() - ECLAT
+ - [Market basket optimization/Analysis](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day24_MarketBasketAnalysisusingECLAT) - ECLAT
+ - [python](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day24_MarketBasketAnalysisusingECLAT/24_marketbasketanalysisusingeclat.py)
+ - [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day24_MarketBasketAnalysisusingECLAT/Market%20Basket%20Analysis%20using%20(Equivalence%20Class%20Clustering%20and%20bottom-up%20Lattice%20Traversal)%20ECLAT.pdf)
+ - [datasets](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day24_MarketBasketAnalysisusingECLAT/dataset1.csv)
  - [notebook](https://colab.research.google.com/drive/1h_1G65wmib13SFEIdP9pbs4_F76ZRsDO?usp=sharing)
 ## Reinfourcement Learning
 ### Day25 
 - [web Ads Clink through Optimization]() - Upper Bound Confidence
+
 - [notebook]()
 ## Netural Language Processing
 ### Day26
-- [Sentiment Analysis]() - NLTK
+- [Sentiment Analysis](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day26_SentimentalAnalysisusingNLP) - NLTK
+- [mindmap-nlp](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day26_SentimentalAnalysisusingNLP/Sentimental%20Analysis%20using%20NLP.pdf)
+- [mindmap-sentiment analysis](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day26_SentimentalAnalysisusingNLP/Sentimental%20Analysis%20using%20NLP.pdf)
+- [dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day26_SentimentalAnalysisusingNLP/dataset.csv)
+- [python](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day26_SentimentalAnalysisusingNLP/26_sentimentalanalysisnlp.py)
 - [notebook](https://colab.research.google.com/drive/1BZH0uWEamb_hIIHV4EnJebgdW1CDSf8L?usp=sharing)
 ### Day27 
 - [Breast Cancer tumor prediction]() - XGBOOST
+- [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day27_BreastcancerTumorPrediction_XGBOOST_ML/Breast%20cancer%20Tumor%20prediction%20using%20XGBOOST.pdf)
+- [dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day27_BreastcancerTumorPrediction_XGBOOST_ML/dataset.csv)
+- [python XGBOOST](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day27_BreastcancerTumorPrediction_XGBOOST_ML/27_2_ml_evaluation_breastcancer_tumor.py)
+- [python ](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day27_BreastcancerTumorPrediction_XGBOOST_ML/27__breastcancertumorprediction_xgboost_ml.py)
 - [notebook XGBOOST](https://colab.research.google.com/drive/1hnC9Eyhu6Bo1-pvv0aDjcYmn7gi8VI7_?usp=sharing)
 - [notebook ](https://colab.research.google.com/drive/15Fuk2NgRXYx2ujbW9lNLvcTEljKeVZCN?usp=sharing)
-## Deep Learning 
+<!-- ## Deep Learning 
 ### Day28
 - [Bank Customer Classification]()- ANN
 ### Day29
@@ -161,7 +183,7 @@
 ### Day30
 - [AI Snakes Game]() 
 ### Love ML
-- [Q-Learning]()
+- [Q-Learning]() -->
 
 
 
