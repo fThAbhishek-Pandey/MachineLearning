@@ -65,61 +65,67 @@
 - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day09_EvaluatingModelPerformance/day_9_validating_model_ad_sale_prediction_from_existing_customer_logistic_regression_validating_model.py)
 - [Notebook](https://colab.research.google.com/drive/1a4BiTWmgYAd9nl-TzldGMugkyfAoQwMM?usp=sharing)
 ### Day 10 
-  - [classification Model selection for Brest Cancer Classification]()
-  - [mindmap]()
-  - [Datasets]()
-  - [Python code]()
+  - [classification Model selection for Brest Cancer Classification](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day10_BreastCancerDetection_VariousMLAlgorithm)
+  - [Datasets](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day10_BreastCancerDetection_VariousMLAlgorithm/data.csv)
+  - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day10_BreastCancerDetection_VariousMLAlgorithm/day_10_breastcancerdetection_variousmlalgorithm.py)
   - [Notebook](https://colab.research.google.com/drive/1lOcs4LX25f7XFJft61RUh0DQFpWaeLFv?usp=sharing)
 ### Day11
-  - [House Price Prediction]() - Linear Regresstion single Variable
-   - [mindmap]()
-  - [Datasets]()
-  - [Python code]()
+  - [House Price Prediction](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day11_HousePricePredictionusing_LinearRegression) - Linear Regresstion single Variable
+  - [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day11_HousePricePredictionusing_LinearRegression/House%20price%20prediction%20using%20Linear%20Regression.pdf)
+  - [Datasets](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day11_HousePricePredictionusing_LinearRegression/dataset.csv)
+  - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day11_HousePricePredictionusing_LinearRegression/11___house_price_prediction_using_linear_regression.py)
   - [Notebook](https://colab.research.google.com/drive/1yU8itYLyQbQC_a8itRUClsALPg5GuJTf?usp=sharing)
 ### Day12 
-   - [Exam Marks Prediction]() - Linear Regresstion Multiple Variable
-   - [mindmap]()
-   - [Datasets]()
-   - [Python code]()
+   - [Exam Marks Prediction](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day12_ExamMarkPrediction_LINEARREGRESSION_MULTIPLEVARIABLES) - Linear Regresstion Multiple Variable
+   - [Datasets](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day12_ExamMarkPrediction_LINEARREGRESSION_MULTIPLEVARIABLES/data.csv)
+   - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day12_ExamMarkPrediction_LINEARREGRESSION_MULTIPLEVARIABLES/12___exam_mark_prediction_using_linear_regression.py)
    - [Notebook](https://colab.research.google.com/drive/1O6qM4E8yr_Vx6M83GmvsRVRBcRontgv9?usp=sharing)
 ### Day13 
-   - [Predicting the Previous Salary of the new Employee]() -  polynomial Regresstion
-   - [mindmap]()
-   - [Datasets]()
-   - [Python code]()
+   - [Predicting the Previous Salary of the new Employee](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day13_%20SalaryPredictionusing_POLYNOMIALREGRESSION) - polynomial Regresstion
+   - [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day13_%20SalaryPredictionusing_POLYNOMIALREGRESSION/Salary%20Prediction%20using%20Polynomial%20Regression.pdf)
+   - [Datasets](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day13_%20SalaryPredictionusing_POLYNOMIALREGRESSION/dataset.csv)
+   - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day13_%20SalaryPredictionusing_POLYNOMIALREGRESSION/13_salary_prediction_using_polynomial_regression.py)
    - [Notebook](https://colab.research.google.com/drive/1Wu2vm_jN69Lar_GyWduzcK3Ltq1RUwIO?usp=sharing)
 ### Day14
-   - [Stock Price Prediction]() - Suport vector
-   - [mindmap]()
-   - [Datasets]()
-   - [Python code]() 
+   - [Stock Price Prediction](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day14_StockPredictionusing_SVMREGRESSION) - Suport vector
+   - [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day14_StockPredictionusing_SVMREGRESSION/Stock%20Prediction%20using%20Support%20Vector%20Regression.pdf)
+   - [Datasets](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day14_StockPredictionusing_SVMREGRESSION/data.csv)
+   - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day14_StockPredictionusing_SVMREGRESSION/14_stock_prediction_using_svm_regression.py) 
    - [Notebook](https://colab.research.google.com/drive/199BOb2W6jUBWjtaDtknwcsBVG0nHPSj1?usp=sharing)
 ### Day15
-   - [Height Prediction from the age]() -Decision tree
-   - [mindmap]()
-   - [Datasets]()
-   - [Python code]()
+   - [Height Prediction from the age](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day15_HeightPredictionFromAge_DECISIONTREE) -Decision tree
+   - [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day15_HeightPredictionFromAge_DECISIONTREE/Height%20Prediction%20using%20DECISION%20TREE.pdf)
+   - [Datasets](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day15_HeightPredictionFromAge_DECISIONTREE/dataset.csv)
+   - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day15_HeightPredictionFromAge_DECISIONTREE/15_heightpredictionfromage_decisiontree.py)
    - [Notebook](https://colab.research.google.com/drive/1KNNsma1qvV5_gAs5N-pMAecp41N2EWEd?usp=sharing)
 ### Day16
-   - [Car Price Prediction]() - Random forest
-   - [mindmap]()
-   - [Datasets]()
-   - [Python code]()
+   - [Car Price Prediction](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day17_EvaluatingRegressionModelUsingRSquaredAdjustedRSquared) - Random forest
+   - [dataset01](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day17_EvaluatingRegressionModelUsingRSquaredAdjustedRSquared/dataset1.csv)
+   - [Dataset02](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day17_EvaluatingRegressionModelUsingRSquaredAdjustedRSquared/dataset2.csv)
+   - [Python code](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day17_EvaluatingRegressionModelUsingRSquaredAdjustedRSquared/17_evaluatingregressionmodelusingrsquaredadjustedrsquared.py)
    - [Notebook](https://colab.research.google.com/drive/1v24R0yXmZC_WgcjLAz6V46vF_wlcbYnn?usp=sharing)
 ### Day17
-   - [Evaluating Model performance using]()
+   - [Evaluating Model performance using](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day17_EvaluatingRegressionModelUsingRSquaredAdjustedRSquared)
       * R-squared initution
       * Adjusted R-squared
    - [notebook](https://colab.research.google.com/drive/1v24R0yXmZC_WgcjLAz6V46vF_wlcbYnn?authuser=2)
 ### Day18 
-  - Regression Model Selection for Energy Prediction
+  - [Regression Model Selection for Energy Prediction](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day18_RegressionModelSelection)
+  - [python](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day18_RegressionModelSelection/18_regressionmodelselection.py)
+  - [dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day18_RegressionModelSelection/dataset.csv)
   - [notebook](https://colab.research.google.com/drive/1tDOV6k5_beUoISRa62S_pBwh2cxWQU9u?usp=sharing)
 ## Unsupervised Learning - Clustering
 ### Day19
-- [Identifying the customer spent]() -KNN
+- [Identifying the customer spent](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day19_ClusterringUsingIncomeSpent_KMeans) -KNN
+- [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day19_ClusterringUsingIncomeSpent_KMeans/Customer%20spent%20analysis%20using%20K-Means%20Clustering.pdf)
+- [python](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day19_ClusterringUsingIncomeSpent_KMeans/19_clusterringusingincomespent.py)
+- [dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day19_ClusterringUsingIncomeSpent_KMeans/dataset.csv)
 - [noteBook](https://colab.research.google.com/drive/1Nd1D4Eaqwduq_vS820RvKOz1PVbkdp0v?usp=sharing)
 ### Day20
-- [Customer Spending Analysis]() -
+- [Customer Spending Analysis](https://github.com/fThAbhishek-Pandey/MachineLearning/tree/main/Day20_ClusterringIncomeSpentusingHierarchialClusterring) 
+- [mindmap](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day20_ClusterringIncomeSpentusingHierarchialClusterring/Customer%20spent%20analysis%20using%20Hierarchical%20Clustering.pdf)
+- [python](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day20_ClusterringIncomeSpentusingHierarchialClusterring/20_clusterringincomespentusinghierarchialclusterring.py)
+- [dataset](https://github.com/fThAbhishek-Pandey/MachineLearning/blob/main/Day20_ClusterringIncomeSpentusingHierarchialClusterring/dataset.csv)
 - [notebook](https://colab.research.google.com/drive/18jqFaMtcvVLwCFmCp4cS7orcSj6ontCC?usp=sharing) 
 ### Day21
 - [leaf types data visulization]() - Principle component Analysis
